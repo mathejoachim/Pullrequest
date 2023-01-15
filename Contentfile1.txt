@@ -1,1 +1,8 @@
 This is file 1
+
+- I am collaborateur
+- I fork the repo of other people
+- I clone my forked repo to local
+- I do changes locally and push to my fork repo
+- On GitHub I ask for pull request to initial repo 
+
